@@ -97,8 +97,8 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Dean\' List',
-      body: 'SKKU Dean\' List',
+      name: 'Dean\'s List',
+      body: 'SKKU Dean\'s List',
       year: '2020',
       link: '',
     },
